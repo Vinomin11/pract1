@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# PyCharm
+.idea/
+*.iml
+out/
+
+# Кэш тестов
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Логи и временное
+*.log
+*.tmp
+
+# Системное
+.DS_Store
+Thumbs.db
